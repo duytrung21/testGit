@@ -27,3 +27,46 @@ C:\Users\HP\source\repos\testGit\testGit\obj\Debug\net5.0\testGit.dll
 C:\Users\HP\source\repos\testGit\testGit\obj\Debug\net5.0\ref\testGit.dll
 C:\Users\HP\source\repos\testGit\testGit\obj\Debug\net5.0\testGit.pdb
 C:\Users\HP\source\repos\testGit\testGit\obj\Debug\net5.0\testGit.genruntimeconfig.cache
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\appsettings.json
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\testGit.exe
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\testGit.deps.json
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\testGit.runtimeconfig.json
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\testGit.runtimeconfig.dev.json
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\testGit.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\ref\testGit.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\testGit.pdb
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.AssemblyInfo.cs
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\staticwebassets\testGit.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\staticwebassets\testGit.StaticWebAssets.xml
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\scopedcss\bundle\testGit.styles.css
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.csproj.CopyComplete
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\ref\testGit.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.pdb
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.genruntimeconfig.cache
