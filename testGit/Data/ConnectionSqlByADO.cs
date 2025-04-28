@@ -8,7 +8,7 @@ namespace testGit.Data
 {
     public class ConnectionSqlByADO
     {
-        private readonly string connectionString = "Data Source=DESKTOP-GRA8A3I;Initial Catalog=TestAPI_ADO;Integrated Security=True";
+        private string connectionString = "Data Source=DESKTOP-GRA8A3I;Initial Catalog=TestAPI_ADO;Integrated Security=True";
         public void CreateTable()
         {
             using (SqlConnection connection = new SqlConnection(connectionString))

@@ -70,3 +70,5 @@ C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\tes
 C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\ref\testGit.dll
 C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.pdb
 C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\obj\Debug\net5.0\testGit.genruntimeconfig.cache
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\github tutorial\testAPI\testGit\testGit\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
