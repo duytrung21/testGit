@@ -9,5 +9,6 @@ namespace testGit.Data
     {
         int IdCompany { get; set; }
         string NameCompany { get; set; }
+        string DirectorCompany { get; set; }
     }
 }
