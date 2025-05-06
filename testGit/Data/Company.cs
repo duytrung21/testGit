@@ -7,5 +7,7 @@ namespace testGit.Data
 {
     public class Company
     {
+        int IdCompany { get; set; }
+        string NameCompany { get; set; }
     }
 }
